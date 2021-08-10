@@ -1,0 +1,15 @@
+.canvas {
+    display: flex;
+    flex-direction: column;
+}
+
+.canvas__table {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 40px;
+    background-color: grey;
+}
+
+.canvas__cell {
+    padding: 20px 40px;
+}
